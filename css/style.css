@@ -726,7 +726,11 @@ button.navbar-toggle {
 	display: block;
 }
 .carousel-caption {
-	display: none;
+	/*display: none;*/
+	top:80%;
+}
+.carousel-caption h1 {
+	font-size: 15px;
 }
 }
 .carousel-fade {
