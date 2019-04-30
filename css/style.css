@@ -732,6 +732,9 @@ button.navbar-toggle {
 .carousel-caption h1 {
 	font-size: 15px;
 }
+.image_hidden {
+	display: none;
+}
 }
 .carousel-fade {
  .carousel-inner {
