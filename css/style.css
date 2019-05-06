@@ -661,7 +661,11 @@ footer .copy .container {
 	line-height: 20px;
 }
 .carousel-caption .btn {
-	display: none;
+	/*display: none;*/
+	margin: 0px;
+	height: 45px;
+	width: 180px;
+	line-height: 45px;
 }
 .recent-posts .col-md-3 .icon-item {
 	text-align: center;
